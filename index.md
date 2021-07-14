@@ -51,6 +51,7 @@ com docentes do ITA, atuando no auxílio de projetos de ciência de dados dentro
 corporação e realização de trabalho final em parceria com o Corinthians ("Clusterização e
 análise da carteira de clientes de time de futebol brasileiro via modelagem WRFM")
 
+
 #### Propzmedia – Estagiário em ciência de dados (09/2017 – 06/2018)
 A Propz é parceiro estratégico de empresas totalmente focadas nas necessidades do varejo,
 com o propósito de ampliar vendas e rentabilidade através da gestão estratégica das ofertas,
@@ -69,7 +70,9 @@ Consultas pontuais para segmentação de campanhas : Conforme a necessidade dos
 parceiros era necessário extração de dados do Data Warehouse (Hive) com auxílio de SQL
 para auxiliar a criação de segmentos de campanhas para maximizar resultados.
 
+
 ---
+
 
 ## Formação Acadêmica
 
@@ -86,15 +89,18 @@ Conclusão – Janeiro 2019
 Graduação em Física Aplicada\
 Conclusão – Julho 2018
 
+
 ---
+
 
 ## Idiomas
 
-| Idioma          | Inglês          | Espanhol        | Mandarim  | 
-|:----------------|:----------------|:----------------|:----------|
-| Leitura         | Avançado        | Básico          | Básico    |
-| Escrita         | Avançado        | Básico          | Básico    |
-| Conversação     | Avançado        | Intermediário   | Básico    |
+| Idioma              | Inglês          | Espanhol        | Mandarim  | 
+|:--------------------|:----------------|:----------------|:----------|
+| **Leitura**         | Avançado        | Básico          | Básico    |
+| **Escrita**         | Avançado        | Básico          | Básico    |
+| **Conversação**     | Avançado        | Intermediário   | Básico    |
+
 * (em desenvolvimento)
 
 ---
