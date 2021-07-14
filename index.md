@@ -15,6 +15,11 @@ artefatos de texto para o banco\
 **Análise de sentimento**: Criação de modelo com arquitetura estado da arte para inferência
 de sentimentos a partir do texto servindo usuários do banco através de APIs.
 
+#### Let's Code - Professor de Ciência de Dados e Python (07/2019 - 07/2021)
+No curso de Python ensinava conceitos básicos de programação python como (variáveis, estruturas condicionais,
+loops, estruturas de dados, funções, orientação a objeto, APIs e webscraping) para alunos de diversos níveis de conhecimento.
+Nas aulas de ciência de dados: tópicos de estatística, realização de testes de hipótese, consulta a banco de dados, modelagem
+supervisionada e não supervisionada e instrução dos alunos nas etapas de modelagem de acordo com a metodologia CRISP-DM para realização do projeto final.
 
 #### Itaú Unibanco – Cientista de dados júnior de text-mining (10/2019 - 10/2020)
 Aplicação de ciência de dados em problemas de negócio em diversas áreas do banco
