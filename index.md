@@ -1,3 +1,7 @@
+#### Contato
+Tel - (13) 99762-2942 <br>                     
+E-mail - rsa.saraiva94@gmail.com
+___
 ## Experiência Profissional
 
 #### Itaú Unibanco – Cientista de dados pleno de text-mining (10/2020 - atualmente)
