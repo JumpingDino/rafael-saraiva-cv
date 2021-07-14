@@ -3,6 +3,7 @@ Tel - (13) 99762-2942
 E-mail - rsa.saraiva94@gmail.com
 
 ## Experiência Profissional
+---
 
 #### Itaú Unibanco – Cientista de dados pleno de text-mining (10/2020 - atualmente)
 Desenvolvimento de produtos de ciência de dados, atuação ativa na construção e
@@ -71,10 +72,9 @@ parceiros era necessário extração de dados do Data Warehouse (Hive) com auxí
 para auxiliar a criação de segmentos de campanhas para maximizar resultados.
 
 
----
-
 
 ## Formação Acadêmica
+---
 
 **UFSCar - Universidade Federal de São Carlos**\
 Mestrado em Inteligência Computacional\
@@ -90,10 +90,8 @@ Graduação em Física Aplicada\
 Conclusão – Julho 2018
 
 
----
-
-
 ## Idiomas
+---
 
 | Idioma              | Inglês          | Espanhol          | Mandarim  | 
 |:--------------------|:----------------|:------------------|:----------|
@@ -103,10 +101,8 @@ Conclusão – Julho 2018
 
 \* (em desenvolvimento)
 
----
-
 ## Atividades Extra - Curriculares
-
+---
 #### Black Belt Lean Six Sigma (07/2018)
 
 
