@@ -1,5 +1,7 @@
 theme: jekyll-theme-cayman
 title: Rafael Souza de Almeida Saraiva
-description: Tel - (13) 99762-2942                     E-mail - rsa.saraiva94@gmail.com
+description: 
 github:
   is_project_page: false
+
+header_page_refs: ['now', 'about', 'contact']
