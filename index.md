@@ -103,6 +103,6 @@ Conclusão – Julho 2018
 
 ## Atividades Extra - Curriculares
 ---
-#### Black Belt Lean Six Sigma (07/2018)
-
+#### Black Belt Lean Six Sigma - 80 horas - (07/2018)
+#### Participação do Fórmula E-Racing da Unicamp 
 
