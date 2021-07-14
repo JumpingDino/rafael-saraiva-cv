@@ -95,13 +95,13 @@ Conclusão – Julho 2018
 
 ## Idiomas
 
-| Idioma              | Inglês          | Espanhol        | Mandarim  | 
-|:--------------------|:----------------|:----------------|:----------|
-| **Leitura**         | Avançado        | Básico          | Básico    |
-| **Escrita**         | Avançado        | Básico          | Básico    |
-| **Conversação**     | Avançado        | Intermediário   | Básico    |
+| Idioma              | Inglês          | Espanhol          | Mandarim  | 
+|:--------------------|:----------------|:------------------|:----------|
+| **Leitura**         | Avançado        | Básico\*          | Básico\*  |
+| **Escrita**         | Avançado        | Básico\*          | Básico\*  |
+| **Conversação**     | Avançado        | Intermediário\*   | Básico\*  |
 
-* (em desenvolvimento)
+\*(em desenvolvimento)
 
 ---
 
