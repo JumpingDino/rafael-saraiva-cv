@@ -1,9 +1,6 @@
 #### Contato
-
-Tel - (13) 99762-2942 <br>                     
+Tel - (13) 99762-2942 \\                     
 E-mail - rsa.saraiva94@gmail.com
-
----
 
 ## Experiência Profissional
 
@@ -53,3 +50,40 @@ Trabalhei 6 meses como analista do Programa de Formação ITAú Analytics, apren
 com docentes do ITA, atuando no auxílio de projetos de ciência de dados dentro da
 corporação e realização de trabalho final em parceria com o Corinthians ("Clusterização e
 análise da carteira de clientes de time de futebol brasileiro via modelagem WRFM")
+
+#### Propzmedia – Estagiário em ciência de dados (09/2017 – 06/2018)
+A Propz é parceiro estratégico de empresas totalmente focadas nas necessidades do varejo,
+com o propósito de ampliar vendas e rentabilidade através da gestão estratégica das ofertas,
+do valor e do relacionamento com o cliente.
+As atividades desenvolvidas na empresa foram:
+Criação de modelo de propensão SMS : Construção de modelo de propensão para
+campanhas SMS, acionando os clientes mais propensos a consumo, reduzindo custos com
+disparos em uma infraestrutura com spark..
+Construção e acompanhamento de indicadores de campanhas : Pelo fato da Propz
+realizar disparos de SMS/Email aos clientes das empresas parceiras, minha
+responsabilidade era criar/melhorar e automatizar a criação de reports aos parceiros, com
+auxílio de Python e uso de uma API foi possível obter os dados advindos de diferentes
+fontes(ferramenta Propz e Google Analytics) e consolidar para auxiliar a tomada de decisão
+de clientes.
+Consultas pontuais para segmentação de campanhas : Conforme a necessidade dos
+parceiros era necessário extração de dados do Data Warehouse (Hive) com auxílio de SQL
+para auxiliar a criação de segmentos de campanhas para maximizar resultados.
+
+---
+
+## Formação Acadêmica
+
+**UFSCar - Universidade Federal de São Carlos**
+Mestrado em Inteligência Computacional
+Jan/2021 - Jan/2023 – cursando 2º semestre noturno
+
+**Instituto Tecnológico de Aeronáutica – ITA**
+PEDS - Programa de Especialização em Data Science
+Curso de Especialização realizado em parceria do ITA e Itaú Unibanco
+Conclusão – Janeiro 2019
+
+**Universidade Estadual de Campinas – UNICAMP**
+Graduação em Física Aplicada
+Conclusão – Julho 2018
+
+
