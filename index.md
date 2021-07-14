@@ -101,7 +101,7 @@ Conclusão – Julho 2018
 | **Escrita**         | Avançado        | Básico\*          | Básico\*  |
 | **Conversação**     | Avançado        | Intermediário\*   | Básico\*  |
 
-\*(em desenvolvimento)
+\* (em desenvolvimento)
 
 ---
 
