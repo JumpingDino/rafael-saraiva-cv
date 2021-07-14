@@ -1,5 +1,5 @@
 #### Contato
-Tel - (13) 99762-2942 \\                     
+Tel - (13) 99762-2942 \                  
 E-mail - rsa.saraiva94@gmail.com
 
 ## Experiência Profissional
@@ -73,17 +73,27 @@ para auxiliar a criação de segmentos de campanhas para maximizar resultados.
 
 ## Formação Acadêmica
 
-**UFSCar - Universidade Federal de São Carlos**
-Mestrado em Inteligência Computacional
+**UFSCar - Universidade Federal de São Carlos**\
+Mestrado em Inteligência Computacional\
 Jan/2021 - Jan/2023 – cursando 2º semestre noturno
 
-**Instituto Tecnológico de Aeronáutica – ITA**
-PEDS - Programa de Especialização em Data Science
-Curso de Especialização realizado em parceria do ITA e Itaú Unibanco
+**Instituto Tecnológico de Aeronáutica – ITA**\
+PEDS - Programa de Especialização em Data Science\
+Curso de Especialização realizado em parceria do ITA e Itaú Unibanco\
 Conclusão – Janeiro 2019
 
-**Universidade Estadual de Campinas – UNICAMP**
-Graduação em Física Aplicada
+**Universidade Estadual de Campinas – UNICAMP**\
+Graduação em Física Aplicada\
 Conclusão – Julho 2018
+
+---
+
+## Idiomas
+
+---
+
+## Atividades Extra - Curriculares
+
+#### Black Belt Lean Six Sigma (07/2018)
 
 
