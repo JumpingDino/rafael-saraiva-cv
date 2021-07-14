@@ -1,6 +1,6 @@
 ### Contato
-Tel - (13) 99762-2942                  
-E-mail - rsa.saraiva94@gmail.com
+Tel: (13) 99762-2942                  
+E-mail: rsa.saraiva94@gmail.com
 
 ## Experiência Profissional
 ---
