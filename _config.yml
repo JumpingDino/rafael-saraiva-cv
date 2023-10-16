@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Rafael Souza de Almeida Saraiva
 #description: 
-github:
-  is_project_page: false
+# github:
+#   is_project_page: false
 
 header_page_refs: ['home', 'contato', 'projetos']
