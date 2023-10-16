@@ -1,7 +1,3 @@
-### Contato
-Tel: (13) 99762-2942                  
-E-mail: rafael.saraiva.de@gmail.com
-
 ## Experiência Profissional
 ---
 
