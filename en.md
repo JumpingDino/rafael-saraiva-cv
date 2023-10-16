@@ -1,4 +1,4 @@
-# PROFESSIONAL EXPERIENCE
+# Professional Experience
 
 ## Delivery Hero SE - Berlin, DE  
 
@@ -46,7 +46,7 @@
 - Development of a model for SMS propensity in Scala.
 - Responsible for running and improvements of a data pipeline that consolidates information of more than 5 million people and sends it to client companies.
 
-# EDUCATION
+# Education
 
 - **Aeronautics Institute of Technology (ITA)**  
   **Location:** São Paulo, SP  
@@ -61,13 +61,13 @@
   **Degree:** Bachelor of Applied Physics  
   **Graduation Date:** June 2018
 
-# SKILLS
+# Skills
 
 - **Programming Languages:** Python, R, SQL
 - **Big Data & Machine Learning:** Spark, Hadoop, Python, Pyspark
 - **Data Science & Miscellaneous Technologies:** A/B testing, ETL, Data science pipeline (cleaning, wrangling, visualization, modeling, interpretation), Statistics, Time series, Experimental design, Hypothesis testing, APIs, Git, SAS, Excel, PowerPoint, AWS (Cloud Practitioner)
 
-# PROJECTS AND LEADERSHIP
+# Projects and Leadership
 
 ## A3 (Advanced Analytics Attendance) - Itaú Unibanco Initiative
 **Location:** São Paulo, SP  
