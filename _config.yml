@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Rafael Souza de Almeida Saraiva
 languages: ["en", "de"]
-
+logo: /assets/jumpingdino2.jpeg
 #description: 
 # github:
 #   is_project_page: false
