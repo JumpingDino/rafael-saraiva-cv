@@ -1,16 +1,15 @@
 # PROFESSIONAL EXPERIENCE
 
-## Delivery Hero SE
-**Location:** Berlin, DE  
-**Position:** Data Scientist, Fintech  
+## Delivery Hero SE - Berlin, DE  
+
+### Fintech Data Scientist  
 **Duration:** July 2022 – Present
 
-- Leadership and development of a process for fraud rules experimentation end-to-end (A/B test design, deployment, and monitoring). This led to an increase in the success of orders, resulting in a financial impact of 80,000 €/month in gross merchandise value (GMV) and is in constant growth.
-- Data science point of contact with PedidosYa's credit team acting in Vendor Financing LATAM. Responsible for the creation of the roadmap, development, and deployment of new credit models that improve the risk assessment of vendors and credit policy optimization models, increasing the size of the credit portfolio by +18% while maintaining risk KPIs under control.
-- Elaborated a project to decrease cash fraud loss in Asia-Pacific (APAC) area, resulting in sets of strategies for business via optimization techniques enabling a financial impact of 10,000 €/month.
+- Leadership and development of a process for fraud rules experimentation end-to-end (A/B test design, deployment, and monitoring). This led to an increase in the success of orders, resulting in €80,000/month in gross merchandise value (GMV) for Pakistan, Philippines, Myanmar and Thailand and is in constant growth.
+- Data science point of contact with PedidosYa's credit team acting in Vendor Financing LATAM. Responsible for the creation of the roadmap, development, and deployment of new credit models that improve the risk assessment of vendors and credit policy optimization models, increasing the size of the credit portfolio by +18% while maintaining risk KPIs under control for Argentina, Chile, Peru, Dominican Republic and Ecuador.
+- Development of pipeline for training fraud models in Asia-Pacific (APAC) and LATAM countries, resulting in more than €30,000/month in savings and better experience for customers through more assertive transaction blocking.
 
-## Itaú Unibanco Holding S.A.
-**Location:** São Paulo, SP
+## Itaú Unibanco Holding S.A. - São Paulo, SP
 
 ### Data Scientist Product Manager, Text Mining Division
 **Duration:** January 2022 – June 2022
@@ -31,17 +30,17 @@
 - Extracted data with SQL for modeling and developed a model for "Member Get Member" campaigns for digital wallets, resulting in a 20% improvement in customer acquisition.
 - Developed a classification model for new customers in the finance app, inferring which customers would be prone to use the digital channel. Responsible for monitoring and development of campaigns for A/B Tests.
 
-## Let’s Code
-**Location:** São Paulo, SP  
-**Position:** Python and Data Science Teacher  
+## Let’s Code - São Paulo, SP  
+
+### Python and Data Science Teacher  
 **Duration:** September 2019 – January 2021
 
 - Content taught: variables, conditional structure, loops, data structure, functions, OOP, APIs, Web scraping, statistics, hypothesis testing, relational databases, supervised and non-supervised algorithms.
 - Supervised 50+ students for final work with diverse topics regarding data and Python.
 
-## Propz
-**Location:** Campinas, SP  
-**Position:** Intern & Junior Data Scientist  
+## Propz - Campinas, SP  
+
+### Intern & Junior Data Scientist  
 **Duration:** September 2017 – June 2018
 
 - Development of a model for SMS propensity in Scala.
