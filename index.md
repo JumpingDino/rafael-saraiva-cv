@@ -9,5 +9,7 @@ Nice to have you here, my name is Rafael and I'm passionate about data! I'm a da
 
 ## CV
 ---
-- [pt-br](./pt-br.md)
-- [en](./en.md)
+#### [CV em português](./pt-br.md)
+---
+#### [Resume in english](./en.md)
+---
